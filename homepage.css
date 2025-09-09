@@ -1,0 +1,46 @@
+.body{
+  background-color:pink;
+}
+
+
+
+
+.p-1{
+  font-weight:bold;
+  width:300px;
+  margin-left:20px;
+  font-size: 20px;
+  color:white;
+}
+.button-1{
+  margin-top:50px;
+  margin-left:20px;
+  height:40px;
+  width:90px;
+  background-color:darkred;
+  border-width:1px;
+  border-color:black;
+  color:white;
+  font-weight:bold;
+  box-shadow: 3px 6px 3px black;
+}
+.button-2{
+  margin-top:50px;
+  margin-left:120px;
+  height:40px;
+  width:90px;
+  background-color:red;
+  border-width:1px;
+  border-color:black;
+  color:white;
+  font-weight:bold;
+    box-shadow: 3px 6px 3px black;
+}
+.pic1{
+  height:250px;
+  margin-top:100px;
+}
+.p2{
+  font-size: 30px;
+  font-weight:bold;
+}
